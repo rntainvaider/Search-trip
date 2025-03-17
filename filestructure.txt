@@ -10,13 +10,35 @@
     |-- App.css
     |-- App.jsx
     |-- assets
+        |-- icon
+            |-- trip
+                |-- icon_arrow.svg
+                |-- icon_calendar.svg
+                |-- icon_like.svg
+                |-- icon_search.svg
+        |-- images
+            |-- img_four.png
+            |-- img_one.png
+            |-- img_three.png
+            |-- img_two.png
     |-- components
         |-- burgerMenu
             |-- BurgerMenu.jsx
             |-- styles.module.css
+        |-- cardsTrip
+            |-- CardsTrip.jsx
+            |-- components
+                |-- Card
+                    |-- Card.jsx
+                    |-- styles.module.css
+            |-- styles.module.css
+        |-- inputSearch
+            |-- InputSearch.jsx
+            |-- styles.module.css
     |-- index.css
     |-- main.jsx
     |-- pages
-        |-- styles.module.css
-        |-- Trip.jsx
+        |-- Trip
+            |-- styles.module.css
+            |-- Trip.jsx
 |-- vite.config.js

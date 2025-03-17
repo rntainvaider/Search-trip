@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+    --font-family: "SF Pro", sans-serif;
+    --second-family: "SF Pro Text", sans-serif;
+
+}
+
+body {
+    font-family: var(--font-family);
+}

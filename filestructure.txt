@@ -1,0 +1,19 @@
+|-- .gitignore
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- App.css
+    |-- App.jsx
+    |-- assets
+    |-- components
+    |-- index.css
+    |-- main.jsx
+    |-- pages
+        |-- styles.module.css
+        |-- Trip.jsx
+|-- vite.config.js

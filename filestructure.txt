@@ -11,6 +11,9 @@
     |-- App.jsx
     |-- assets
     |-- components
+        |-- burgerMenu
+            |-- BurgerMenu.jsx
+            |-- styles.module.css
     |-- index.css
     |-- main.jsx
     |-- pages

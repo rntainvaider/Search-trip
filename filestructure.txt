@@ -12,6 +12,12 @@
     |-- assets
         |-- icon
             |-- trip
+                |-- footer
+                    |-- icon_bookmark.svg
+                    |-- icon_chat.svg
+                    |-- icon_profile.svg
+                    |-- icon_search.svg
+                    |-- icon_trip.svg
                 |-- icon_arrow.svg
                 |-- icon_calendar.svg
                 |-- icon_like.svg
@@ -29,8 +35,15 @@
             |-- CardsTrip.jsx
             |-- components
                 |-- Card
-                    |-- Card.jsx
+                    |-- index.jsx
                     |-- styles.module.css
+            |-- styles.module.css
+        |-- footer
+            |-- elements
+                |-- button
+                    |-- index.jsx
+                    |-- styles.module.css
+            |-- Footer.jsx
             |-- styles.module.css
         |-- inputSearch
             |-- InputSearch.jsx

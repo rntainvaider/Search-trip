@@ -1,5 +1,6 @@
 import BurgerMenu from "../../components/burgerMenu/BurgerMenu";
 import CardsTrip from "../../components/cardsTrip/CardsTrip";
+import Footer from "../../components/footer/Footer";
 import InputSearch from "../../components/inputSearch/InputSearch";
 import styles from "./styles.module.css";
 
@@ -14,6 +15,7 @@ export default function Trip() {
       </header>
       <InputSearch />
       <CardsTrip />
+      <Footer />
     </div>
   )
 };

@@ -1,0 +1,21 @@
+.footer__block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+}
+
+.asd {
+    background-color: blue;
+    padding: 17px;
+    border-radius: 50%;
+    display: flex;
+    cursor: pointer;
+}
+
+.footer__text {
+    font-size: 12px;
+    line-height: 133%;
+    color: #7d848d;
+}

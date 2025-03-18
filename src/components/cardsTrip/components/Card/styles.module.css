@@ -40,3 +40,18 @@
     letter-spacing: 0.02em;
     color: #7d848d;
 }
+
+.error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 84px;
+}
+
+.error__text {
+    line-height: 100%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #7d848d;
+    margin-top: 14px;
+}

@@ -4,6 +4,11 @@
     align-items: center;
     gap: 4px;
     cursor: pointer;
+    /* background: red; */
+}
+
+.icon:hover path {
+    filter: brightness(0.8) sepia(1) hue-rotate(180deg);
 }
 
 .asd {

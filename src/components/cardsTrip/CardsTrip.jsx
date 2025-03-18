@@ -1,10 +1,10 @@
 import Card from "./components/Card";
 import styles from "./styles.module.css";
 
-export default function CardsTrip() {
+export default function CardsTrip({ filter }) {
   return (
     <div className={styles["cards"]}>
-      <Card />
+      <Card filter={filter} />
     </div>
-  )
-};
+  );
+}

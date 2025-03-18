@@ -23,6 +23,7 @@
                 |-- icon_like.svg
                 |-- icon_search.svg
         |-- images
+            |-- Face.png
             |-- img_four.png
             |-- img_one.png
             |-- img_three.png
